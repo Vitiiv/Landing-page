@@ -18,7 +18,7 @@ Uma das partes fundamentais deste projeto foi a combinação do GRID e Flex para
 ### Menu de Hambúrguer: 
 Implementar o "menu de hambúrguer" foi um dos desafios mais intrigantes. Aprendi a criar um menu de navegação compacto e elegante para dispositivos móveis, garantindo que os usuários pudessem acessar facilmente o conteúdo do site. Isso envolveu o uso de HTML, CSS e JavaScript para criar uma experiência de usuário suave.
 
-<img src="./Animação mobile.gif" alt="GIF do NFT">
+<img src="./Animação Mobile.gif" alt="GIF do NFT">
 
 ### Design Responsivo: 
 A adaptabilidade da página a diferentes dispositivos foi uma dificuldade notável. Aprendi a usar media queries e técnicas de design responsivo para garantir que a landing page se comportasse de maneira eficaz em smartphones, tablets e computadores.
