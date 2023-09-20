@@ -16,7 +16,7 @@ Ao desenvolver esta landing page, deparei-me com desafios significativos que me 
 Uma das partes fundamentais deste projeto foi a combinação do GRID e Flex para criar layouts complexos e responsivos. Aprendi a importância de escolher a abordagem certa para diferentes partes da página, tornando-a visualmente atraente e funcional em várias resoluções de tela.
 
 ### Menu de Hambúrguer: 
-Implementar o "menu de hambúrguer" foi um dos desafios mais intrigantes. Aprendi a criar um menu de navegação compacto e elegante para dispositivos móveis, garantindo que os usuários pudessem acessar facilmente o conteúdo do site. Isso envolveu o uso de HTML, CSS e JavaScript para criar uma experiência de usuário suave.
+Implementar o "menu de hambúrguer" foi um dos desafios mais intrigantes. Aprendi a criar um menu de navegação compacto e elegante para dispositivos móveis, garantindo que os usuários pudessem acessar facilmente o conteúdo do site. Isso envolveu o uso de HTML e CSS para criar uma experiência de usuário suave.
 
 <img src="./Animação Mobile.gif" alt="GIF do NFT">
 
